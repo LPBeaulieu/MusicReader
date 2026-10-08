@@ -1,7 +1,7 @@
 # MusicReader
 MusicReader is an app that lets you turn your music box paper scoresheet scans into MIDI music, complete with tempo adjustment, transposition and addition of silences at the start and the end of your music tracks!
 
-![MusicReader Preview]([https://github.com/LPBeaulieu/Typewriter-OCR-TintypeText/blob/main/TintypeText%20basic%20rtf%20mode%20screenshot.jpg](https://github.com/LPBeaulieu/MusicReader/blob/main/MusicReader.png))
+![MusicReader Preview](https://github.com/LPBeaulieu/MusicReader/blob/main/MusicReader.png)
 <h3 align="center">MusicReader</h3>
 <div align="center">
   
