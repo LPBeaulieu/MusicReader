@@ -16,6 +16,9 @@ MusicReader is an app that lets you turn your music box paper scoresheet scans i
 <p align="left"> <b>MusicReader</b> is an application that generates MIDI files from scanned music box scoresheet JPEG files, complete with features such as tempo adjustment, transposition, and addition of silence to the start and end of the MIDI files, essentially turning your music box into an analog version of a Digital Audio Workstation (DAW)!
 </p>
 
+<p align="left"> Be sure to also check out my other repo <b>Midi2Flac</b>, lets you render MIDI files as FLAC audio files with SF2 soundfont files, complete with metadata information! Here's a link to the repo: https://github.com/LPBeaulieu/MIDI-2-FLAC/tree/main.
+</p>
+
 ## 📝 Table of Contents
 - [Getting Started](#getting_started)
 - [Usage](#usage)
@@ -77,6 +80,8 @@ Here are a few important pointers for best results:
 - **Place your JPEG scans within the "Scans" subfolder** of the working folder (the folder where the **MusicReader** executable is located is the working folder).
 
 - The default settings should work well in most cases, and every setting is explained in detail in the command-line interface menus of **MusicReader**, with the default values being specified in every case.
+
+- You may add a text file (".txt") in the working folder containing a list of music box notes in letter format (e.g., C#5) in order for the code to use these notes instead of the default notes of the 30-note music box. Make sure to only write one note per line, without any punctuation marks, and to use sharps instead of flats when designating your notes. Also, the file name should differ from "README.txt", "LICENSE.txt" and "ERROR LOG.txt" so as to avoid naming conflicts with these files.  
 
         
   <br><b>And that's it!</b> Happy (analog) composing with your new AAW (Analog Audio Workstation)! 🎉📖
