@@ -16,7 +16,7 @@ MusicReader is an app that lets you turn your music box paper scoresheet scans i
 <p align="left"> <b>MusicReader</b> is an application that generates MIDI files from scanned music box scoresheet JPEG files, complete with features such as tempo adjustment, transposition, and addition of silence to the start and end of the MIDI files, essentially turning your music box into an analog version of a Digital Audio Workstation (DAW)!
 </p>
 
-<p align="left"> You will **find GIMP and PDF versions of the printable 30-note music box scoresheets and note guides in the "Printable Music Box Scoresheets and Note Guide" folder of this repo**. In order to print the US Letter PDF version, you will need to print at 100% scale (no rescaling) using a printer that is able to print up to 0.16 in (4.23 mm) of the page edges. Otherwise, you will need to crop the GIMP version to only print two scoresheets per sheet of US Letter paper, like the vertically centered A4 version).
+<p align="left"> You will <b>find GIMP and PDF versions of the printable 30-note music box scoresheets and note guides in the "Printable Music Box Scoresheets and Note Guide" folder of this repo</b>. In order to print the US Letter PDF version, you will need to print at 100% scale (no rescaling) using a printer that is able to print up to 0.16 in (4.23 mm) of the page edges. Otherwise, you will need to crop the GIMP version to only print two scoresheets per sheet of US Letter paper, like the vertically centered A4 version).
 </p>
 
 <p align="left"> Be sure to also check out my other repo <b>Midi2Flac</b>, which lets you render MIDI files as FLAC audio files with SF2 soundfont files, complete with metadata information! Here's a link to the repo: https://github.com/LPBeaulieu/MIDI-2-FLAC/tree/main.
